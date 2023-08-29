@@ -1,0 +1,1 @@
+A completely free project while studying JS. Personal playground to work on some newly learned features.
